@@ -5,3 +5,5 @@ vless://77a571fb-4fd2-4b37-8596-1b7d9728bb5c@skk.moe:8443/?type=ws&encryption=no
 vless://77a571fb-4fd2-4b37-8596-1b7d9728bb5c@skk.moe:8443/?type=ws&encryption=none&host=vlesscf1.mchridz.pp.ua&path=%2F%3Fed%3D2048&security=tls&sni=vlesscf1.mchridz.pp.ua&fp=random#vlesscf1.mchridz.pp.ua
 vless://77a571fb-4fd2-4b37-8596-1b7d9728bb5c@skk.moe:8443/?type=ws&encryption=none&host=vlesscftest.mchridz.pp.ua&path=%2F%3Fed%3D2048&security=tls&sni=vlesscftest.mchridz.pp.ua&fp=random#vlesscftest.mchridz.pp.ua
 vless://77a571fb-4fd2-4b37-8596-1b7d9728bb5c@skk.moe:8443/?type=ws&encryption=none&host=phonevless.mchridz.pp.ua&path=%2F%3Fed%3D2048&security=tls&sni=phonevless.mchridz.pp.ua&fp=random#phonevless.mchridz.pp.ua
+vless://77a571fb-4fd2-4b37-8596-1b7d9728bb5c@bestip.mchridz.pp.ua:443?encryption=none&security=tls&sni=bestip.mchridz.pp.ua&fp=randomized&type=ws&host=bestip.mchridz.pp.ua&path=%2F%3Fed%3D2048#bestip.mchridz.pp.ua
+vless://77a571fb-4fd2-4b37-8596-1b7d9728bb5c@bestip.dejdeimessi.workers.dev:80?encryption=none&security=none&fp=randomized&type=ws&host=bestip.dejdeimessi.workers.dev&path=%2F%3Fed%3D2048#bestip.dejdeimessi.workers.dev
